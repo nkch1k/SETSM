@@ -1,2 +1,2 @@
-# so easy to send mail
+# Mailer
 Default Node.js mailer code + Guide
